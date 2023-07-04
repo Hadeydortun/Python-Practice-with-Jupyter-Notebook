@@ -1,3 +1,2 @@
 # Python-Practice-with-Jupyter-Notebook
-This is a learning session on how to work with strings in Python
-Working with Lists and Tuples in Python
+This is a beginner learning session on how to work with Python in Jupyter Notebook
